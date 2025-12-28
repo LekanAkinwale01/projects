@@ -1,5 +1,6 @@
 # Portfolio
 
+<<<<<<< HEAD
 This repository contains a selection of personal projects demonstrating my
 interests and skills in computer science, software development, and applied
 machine learning.
@@ -38,3 +39,8 @@ _Status: In progress_
 ## Notes
 This repository is actively maintained and updated as I continue to build
 and refine new projects.
+=======
+A collection of personal projects demonstrating my interests in computer
+science and applied machine learning.
+
+>>>>>>> f59b60a (Initial commit:portfolio with nlp project)
